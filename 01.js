@@ -69,6 +69,8 @@ https://github.com/daqingchon/test112.git 在github中创建的存储库
 15.对代码进行"本窗口"（其他窗口另设置)优化,
 15.1 git remote add origin https://github.com/daqingchon/test112.git
      帮助理解:相当于 声明了 origin 变量为 :https://github.com/daqingchon/test112.git
+	 git push origin -u master 创建文件后(添加到版本库),再执行这一步 ,就可以把代码精简为  git  push/pull
+	 
 	 
 	 接下来测试
 	 
