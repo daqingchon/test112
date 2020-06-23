@@ -63,6 +63,14 @@ https://github.com/daqingchon/test112.git 在github中创建的存储库
 			git push git@github.com:daqingchon/test119.git master,
 			git push [公钥]    
 			
-			
+14.先pull本地解决与服务器的冲突( " test" wq退出)  后push ,上传到github  			
 
+
+15.对代码进行"本窗口"（其他窗口另设置)优化,
+15.1 git remote add origin https://github.com/daqingchon/test112.git
+     帮助理解:相当于 声明了 origin 变量为 :https://github.com/daqingchon/test112.git
+	 
+	 接下来测试
+	 
+	
 	 
